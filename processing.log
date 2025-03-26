@@ -1,0 +1,27 @@
+2025-03-25 22:28:04,327 - __main__ - INFO - Системная информация:
+2025-03-25 22:28:04,327 - __main__ - INFO - CPU cores: 96
+2025-03-25 22:28:04,328 - __main__ - INFO - Memory total: 321920 MB
+2025-03-25 22:28:04,328 - __main__ - INFO - Memory available: 192691 MB
+2025-03-25 22:28:04,328 - __main__ - INFO - Disk usage: 68.8%
+2025-03-25 22:28:04,328 - __main__ - INFO - Поиск индексных файлов...
+2025-03-25 22:28:04,328 - __main__ - ERROR - Индексные файлы не найдены
+2025-03-25 22:28:15,316 - __main__ - INFO - Системная информация:
+2025-03-25 22:28:15,316 - __main__ - INFO - CPU cores: 96
+2025-03-25 22:28:15,316 - __main__ - INFO - Memory total: 321920 MB
+2025-03-25 22:28:15,316 - __main__ - INFO - Memory available: 191472 MB
+2025-03-25 22:28:15,316 - __main__ - INFO - Disk usage: 68.7%
+2025-03-25 22:28:15,316 - __main__ - INFO - Поиск индексных файлов...
+2025-03-25 22:28:15,554 - __main__ - INFO - Найдено индексных файлов: 11
+2025-03-25 22:28:15,555 - __main__ - INFO - Список найденных файлов:
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/shellcodes/0day.today/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/shellcodes/packetstorm/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/util/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/exploits/cxsecurity.com/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/exploits/embeded/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/exploits/sploitus.com/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/exploits/packetstorm/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/Doc/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/Doc/magazine_packetstorm/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/Doc/packetstormsecurity.com/index_.txt
+2025-03-25 22:28:15,555 - __main__ - INFO -   ../web/htdocs/systemerror/packetstorm/index_.txt
+2025-03-25 22:29:43,505 - __main__ - INFO - Обработка отменена пользователем
